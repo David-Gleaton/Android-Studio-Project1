@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gleaton_HW1</string>
+    <string name="Blurb">Hello World, I\'m H. David Gleaton</string>
+    <string name="Learn">Learn More</string>
+    <string name="ReturnButton">Return to Home</string>
+    <string name="Name_Home">My name is David Gleaton, and I\'m from Pawleys Island, SC</string>
+    <string name="Fav_prog">My favorite programming language I would say is python. Even though I just started using it heavily last semester, it grew on me quick!</string>
+    <string name="Hobbies">My Hobbies are: Reading, playing DnD, playing tabletop/videogames, and collecting vinyl records</string>
+    <string name="Fav_food">My favorite food has to be the fried seafood my family makes back home. It is honestly the best, they deserve 3 Michelin stars.</string>
+    <string name="Fun_fact">A fun fact about me is that I have 3 natural colors on my head: Red, Brown, and white!</string>
+    <string name="LinkdIn">LinkdIn</string>
+</resources>
